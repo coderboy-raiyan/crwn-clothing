@@ -1,5 +1,7 @@
+import Directory from "./components/Directory/Directory.component";
+
 function App() {
-    return <div>App</div>;
+    return <Directory />;
 }
 
 export default App;
